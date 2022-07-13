@@ -1,0 +1,69 @@
+#!/bin/bash
+# our comment is here
+ echo "--------------------------------------------------------------------"
+figlet "FastUpdate 1.0"
+  echo "" "" "" "" "" "" "" "" "" "DS: Fro3en#2001" "</> by Fro3en </>" "GitHub: Fro3enn"
+ echo "--------------------------------------------------------------------"
+echo -en "\033[41m\033[30m Внимание! Hачинается обновление/подгрузка репозиториев!  \033[0m"
+    echo
+    echo
+for i in 1
+    do
+   echo 
+ sleep 1
+   echo "[||] 1%"
+    sleep 1
+     echo "[||||||||] 25%"
+      sleep 1
+        echo "[||||||||||] 50%"
+          sleep 1
+           echo "[||||||||||||] 75%"
+             sleep 1
+              echo "[||||||||||||||] 100%"
+               sleep 1
+                 echo "Your password on VM: kali"
+               done
+              sudo apt install
+             sudo apt update
+            sudo apt-get install figlet
+           sudo apt upgrade -y
+          sudo apt update -y
+         sudo apt install git
+        echo -e "\033[42m\033[30m Обновление завершено! Приятной работы :3 \033[0m"
+       echo 
+         echo -en "\033[41m\033[30m Хочешь загрузить xакерские  утилиты? Мы не несём отвественность за ваши действия! \033[0m"
+          echo 
+            read -p "Да или нет? [Y/n] " response
+             echo
+              case $response in [yY][eE][sS]|[yY]|[jJ]|'')
+               echo
+                echo
+                 echo -e "\033[42m\033[30m Хакерские утилиты скоро будут загружены! Ожидайте. \033[0m"
+                  sudo git clone https://github.com/Err0r-ICA/WannaTool
+                   sudo apt-add-repository ppa:hollywood/ppa
+                  sudo apt-get update
+                 sudo apt-get install hollywood
+                neofetch
+               echo -e "\033[42m\033[30m Хакерские утилиты успешно загружены. Для их использования введите следующие команды: \033[0m"
+              echo cd WannaTool
+             echo chmod +x
+            echo bash WannaTool
+           xterm -e ./myscript other_term
+             echo
+               echo 
+                 echo 
+                  echo
+                     ;;
+                    *)
+                    echo
+                     echo -en "\033[41m\033[30mПодгрузка хакерских утилит успешно отклонена. \033[0m"
+                      echo
+                       figlet Script Dev by Fro3en
+                       xterm -e ./essk other_term
+echo
+    ;;
+esac
+
+
+
+

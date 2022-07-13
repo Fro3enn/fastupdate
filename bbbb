@@ -1,0 +1,4 @@
+#!/bin/bash
+# our comment is here
+xterm -hold -e
+hollywood

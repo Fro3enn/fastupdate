@@ -1,0 +1,14 @@
+#!/bin/bash
+# our comment is here
+xterm -hold -e
+figlet Hello Kali User!
+echo
+echo
+echo
+echo
+echo
+echo
+echo
+echo
+echo
+xterm -e ./bbbb other_term
