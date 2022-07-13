@@ -46,7 +46,7 @@ for i in 1
                 neofetch
                echo -e "\033[42m\033[30m Хакерские утилиты успешно загружены. Для их использования введите следующие команды: \033[0m"
               echo cd WannaTool
-             echo chmod +x
+             echo chmod +x WannaTool
             echo bash WannaTool
            xterm -e ./myscript other_term
              echo
